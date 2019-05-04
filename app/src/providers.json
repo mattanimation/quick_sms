@@ -1,0 +1,31 @@
+[
+    {
+        "name":"AT&T",
+        "outlets": {
+            "SMS":"@txt.att.net",
+            "MMS":"@mms.att.net"
+        }
+    },
+    {
+        "name":"T-Mobile",
+        "outlets": {
+            "SMS":"@tmomail.net",
+            "MMS":"@tmomail.net"
+        }
+    },
+    {
+        "name":"Verizon",
+        "outlets": {
+            "SMS":"@vtext.com",
+            "MMS":"@vzwpix.com"
+        }
+    },
+    {
+        "name":"Sprint",
+        "outlets":{
+            "SMS":"@messaging.sprintpcs.com",
+            "MMS":"@pm.sprint.com"
+        }
+    }
+]
+
