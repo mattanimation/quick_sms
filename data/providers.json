@@ -1,0 +1,18 @@
+{
+    "AT&T": {
+        "SMS_ADDRESS":"@txt.att.net",
+        "MMS_ADDRESS":"@mms.att.net"
+    },
+    "T-Mobile": {
+        "SMS_ADDRESS":"@tmomail.net",
+        "MMS_ADDRESS":"@tmomail.net"
+    },
+    "Verizon": {
+        "SMS_ADDRESS":"@vtext.com",
+        "MMS_ADDRESS":"@vzwpix.com"
+    },
+    "Sprint": {
+        "SMS_ADDRESS":"@messaging.sprintpcs.com",
+        "MMS_ADDRESS":"@pm.sprint.com"
+    }
+}
